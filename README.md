@@ -1,16 +1,15 @@
-# dechamps_game
+# Meu Primeiro Game Multiplayer Mobile
 
-&#x27;A new Flutter project. Created by Slidy&#x27;
+Esse é o primeiro jogo desenvolvido por Filipe Deschamps originalmente criado em Javascript e agora disponível na versão mobile usando Flutter
 
-## Getting Started
+- [Vídeo de Referência](https://www.youtube.com/watch?v=0sTfIZvjYJk)
+- [Repositório original](https://github.com/filipedeschamps/meu-primeiro-jogo-multiplayer)
 
-This project is a starting point for a Flutter application.
+## Tecnologias e packages utilizados
 
-A few resources to get you started if this is your first Flutter project:
+Esse projeto foi construido usando o Flutter como engine principal com os seguintes packages:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- bloc_pattern
+- websocket
+- rxdart
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
