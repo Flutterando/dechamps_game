@@ -4,6 +4,7 @@ Esse é o primeiro jogo desenvolvido por Filipe Deschamps originalmente criado e
 
 - [Vídeo de Referência](https://www.youtube.com/watch?v=0sTfIZvjYJk)
 - [Repositório original](https://github.com/filipedeschamps/meu-primeiro-jogo-multiplayer)
+- [Download do APK para Android](https://github.com/Flutterando/dechamps_game/raw/master/meu-primeiro-jogo.apk)
 
 ## Tecnologias e packages utilizados
 
@@ -13,3 +14,4 @@ Esse projeto foi construido usando o Flutter como engine principal com os seguin
 - websocket
 - rxdart
 
+![alt text](https://raw.githubusercontent.com/Flutterando/dechamps_game/master/print.png)
